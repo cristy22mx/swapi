@@ -1,0 +1,15 @@
+body{
+	text-align: center;
+}
+
+
+.card{
+	float: left;
+	justify-content: center;
+	margin: 10px;
+}
+
+.card-img-top{
+	width: 70% !important;
+	height: 50% !important;
+}
